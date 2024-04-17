@@ -1,0 +1,15 @@
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\bin\Debug\net6.0\HadejCislo.exe
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\bin\Debug\net6.0\HadejCislo.deps.json
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\bin\Debug\net6.0\HadejCislo.runtimeconfig.json
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\bin\Debug\net6.0\HadejCislo.dll
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\bin\Debug\net6.0\HadejCislo.pdb
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\obj\Debug\net6.0\HadejCislo.csproj.AssemblyReference.cache
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\obj\Debug\net6.0\HadejCislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\obj\Debug\net6.0\HadejCislo.AssemblyInfoInputs.cache
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\obj\Debug\net6.0\HadejCislo.AssemblyInfo.cs
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\obj\Debug\net6.0\HadejCislo.csproj.CoreCompileInputs.cache
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\obj\Debug\net6.0\HadejCislo.dll
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\obj\Debug\net6.0\refint\HadejCislo.dll
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\obj\Debug\net6.0\HadejCislo.pdb
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\obj\Debug\net6.0\HadejCislo.genruntimeconfig.cache
+C:\Users\risaf\source\repos\HadejCislo\HadejCislo\obj\Debug\net6.0\ref\HadejCislo.dll
